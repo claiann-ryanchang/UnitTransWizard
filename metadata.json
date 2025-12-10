@@ -1,0 +1,5 @@
+{
+  "name": "萬能單位轉換器 (Unit Master)",
+  "description": "一個美觀且功能強大的單位轉換應用程式，支援長度、面積、體積的即時轉換。",
+  "requestFramePermissions": []
+}
